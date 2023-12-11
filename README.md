@@ -1,2 +1,2 @@
 # FlappyBird
-Flappy Bird kopyasi
+prototip Flappy Bird kopyasi
